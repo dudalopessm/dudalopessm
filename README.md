@@ -2,8 +2,6 @@
 ---
 :mortar_board: A Computer Science student (UFU - Universidade Federal de Uberlândia) learning different languages and studying them really hard, wich are listed in the **toolbox** below.
 
-:cloud: Currently getting also interested in cloud computing and data engineering.
-
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin logo" width="20" height="20"> My LinkedIn account: https://www.linkedin.com/in/dudalopessm/.
 
 ---
