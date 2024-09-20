@@ -1,6 +1,6 @@
 ### Hello stranger <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Eduarda Lopes!
 ---
-:mortar_board: A Computer Science student (UFU - Universidade Federal de Uberlândia) learning different languages and studying them really hard, wich are listed in the **toolbox** below.
+:mortar_board: A Computer Science student (UFU - Universidade Federal de Uberlândia) learning different languages and studying them really hard, wich are listed in the images below.
 
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin logo" width="20" height="20"> My LinkedIn account: https://www.linkedin.com/in/dudalopessm/.
 
